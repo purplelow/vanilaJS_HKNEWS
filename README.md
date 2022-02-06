@@ -1,3 +1,6 @@
-# vanilaJS_HKNEWS
-# vanilaJS_HKNEWS
-# vanilaJS_HKNEWS
+# Vanila JavaScript HKNEWS
+
+라우터 / 화면 처리
+페이징
+tailwind css UI
+vanilaJS로 상태 관리
